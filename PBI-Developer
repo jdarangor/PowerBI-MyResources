@@ -1,0 +1,11 @@
+Power BI developer documentation
+https://docs.microsoft.com/en-us/power-bi/developer/
+
+About Power BI for developers
+Visuals
+Embedded analytics
+
+-VS Code snippeds -> https://marketplace.visualstudio.com/search?target=VSCode&category=Snippets&sortBy=Installs
+-D3 Visual VS Code Snipped -> https://marketplace.visualstudio.com/items?itemName=noahezekwugo.d3-skeletons 
+-Lifting and Shifting a Simple d3.js Line Chart into A Power BI Custom Visual (Part 2)
+https://coacervo.co/examples/d3-line-chart-2
